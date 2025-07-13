@@ -13,6 +13,7 @@ This project is a visualization tool for sorting algorithms built with Python an
 
 - Python 3.x
 - Pygame library
+- Python IDE
 
 Install Pygame using pip if you haven't already:
 
@@ -63,15 +64,6 @@ pip install pygame
 - **generate_starting_list()**: Creates a new randomized list.
 - **bubble_sort() / insertion_sort()**: Sorting algorithm implementations with visualization hooks.
 - **main()**: Program entry point and event loop.
-
-## Requirements 🛠️
-This project was developed using:
-
-PyCharm IDE: For writing, running, and debugging Python code efficiently.
-
-Python 3: The programming language used for all code and logic.
-
-Pygame: The library used for visualization and graphics.
 
 ## Acknowledgments 🙏
 
